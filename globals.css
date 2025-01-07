@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Inter;
+	src: url('./assets/fonts/inter.ttf');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Inter;
+	src: url('./assets/fonts/inter-italic.ttf');
+	font-style: italic;
+}
+
+body {
+	background-color: #18181B;
+	color: #737373;
+	font-family: Inter, Arial;
+}
